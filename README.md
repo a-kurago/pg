@@ -1,4 +1,12 @@
 # Simple password generator
+
+## Install
+
+```bash
+uv tool install .
+```
+
+## Usage
 ```
 Usage: pg.py [OPTIONS]
 
